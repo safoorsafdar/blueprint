@@ -18,7 +18,7 @@
   ],
   "require": {
     "php": "~5.6|~7.0",
-    "dingo/blueprint": "0.2.*",
+    "dingo/blueprint": "0.1.*",
     "illuminate/routing": "^5.1",
     "illuminate/console": "^5.1",
     "phpdocumentor/reflection-docblock": "3.1.* || 2.0.*"
